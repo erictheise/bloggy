@@ -3,9 +3,9 @@
 [![Dependency Status](https://gemnasium.com/erictheise/bloggy.png)](https://gemnasium.com/erictheise/bloggy)
 
 A few years back, I wanted to incorporate a blog into a Rails application. Whether due to an unfortunate google search
-or the actual state of Jekyll development at the time, I ended up using [Bloggy](https://github.com/zbruhnke/bloggy).
-It, too, had some issues, but it had its smart and enthusiastic users and it seemed to provide a straight path to
-accomplishing what I hoped to accomplish.
+or the actual state of [Jekyll](jekyllrb.com) development at the time, I ended up using
+[Bloggy](https://github.com/zbruhnke/bloggy). It, too, had some issues, but it had its smart and enthusiastic users and
+it seemed to provide a straight path to accomplishing what I hoped to accomplish.
 
 Eventually I created this fork to strip out the unused requirements that made it difficult to track Jekyll's progress.
 And at this point in time, I've ceased using Bloggy entirely; realistically, it adds nothing that offsets the barriers
