@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'rake', '~> 10.4'
 
-  s.add_runtime_dependency 'jekyll', '>= 2.1.0'
+  s.add_runtime_dependency 'jekyll', '>= 2.4'
   s.add_runtime_dependency 'rails'
   s.add_runtime_dependency 'rack-contrib'
 
