@@ -27,6 +27,6 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'jekyll', '>= 3.1'
   s.add_runtime_dependency 'rails'
-  s.add_runtime_dependency 'rack-contrib'
+  s.add_runtime_dependency 'rack-contrib', '>= 1.4'
 
 end
