@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.rubyforge_project = 'bloggy'
 
-  s.add_development_dependency 'rake', '~> 11.0'
+  s.add_development_dependency 'rake'
 
   s.add_runtime_dependency 'jekyll', '>= 3.1'
   s.add_runtime_dependency 'rails'
